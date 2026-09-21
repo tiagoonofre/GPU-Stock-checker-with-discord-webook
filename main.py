@@ -3,8 +3,6 @@ from bs4 import BeautifulSoup
 import cfscrape
 from discord_webhook import DiscordWebhook
 
-# https://discord.com/api/webhooks/909258630556168272/8KkAI2fl6AMtKJhSXE2WI4SBzXVwfHxoQSeB29Bpj5KNE4K7fVmL11Q3j0l1zZNOhe7A
-
 class bcolors:
     HEADER = '\033[95m'
     OKBLUE = '\033[94m'
